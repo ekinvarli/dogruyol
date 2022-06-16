@@ -1,0 +1,1 @@
+function comment() {alert('Bu özellik şu anda kapalı.')}
